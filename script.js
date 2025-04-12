@@ -17,7 +17,7 @@ document.getElementById("siBtn").addEventListener("click", function () {
 
   document.getElementById("messageContainer").style.display = "block";
   document.getElementById("messageContainer").innerHTML =
-    "Anh biết là em sẽ đồng ý làm người yêu anh mà<33";
+    "Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà<33";
 
   setTimeout(function () {
     document.getElementById("happyGifContainer").style.display = "none";
